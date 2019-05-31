@@ -8,7 +8,7 @@
     height: 160px;
     background-image: url('../img/CabecalhoAzul.png');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain; 
 }
 .logo {
     margin-top: 16px;
