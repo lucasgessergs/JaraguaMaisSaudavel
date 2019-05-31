@@ -46,3 +46,7 @@
 .b_nav2:hover {
     background-color: red;
 }
+
+.fundo{
+    background: url("../img/fundoYellow.png")
+}
