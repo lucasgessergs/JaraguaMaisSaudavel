@@ -50,3 +50,9 @@
 .fundo{
     background: url("../img/fundoYellow.png")
 }
+
+.BALAO-CONHECA {
+    box-align: center;
+    width: 80%;
+    height: 80%;
+}
