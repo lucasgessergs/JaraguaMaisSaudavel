@@ -3,18 +3,21 @@
     padding: 0px;
     border: 0px;
 }
+
 .navBar {
     width: 100%;
     height: 160px;
     background-image: url('../img/CabecalhoAzul.png');
     background-repeat: no-repeat;
-    background-size: contain; 
+    background-size: contain;
 }
+
 .logo {
     float: left;
     margin-left: 14%;
 }
-.b_nav{
+
+.b_nav {
     float: left;
     margin-top: 32px;
     margin-left: -5%;
@@ -26,12 +29,14 @@
     width: 100px;
     color: rgb(255, 196, 0);
 }
+
 .b_nav:hover {
     background-color: red;
     color: white;
     border: 2px red;
     border-style: solid;
 }
+
 .b_nav2 {
     float: left;
     margin-top: 32px;
@@ -42,11 +47,12 @@
     margin-left: 1%;
     color: white;
 }
+
 .b_nav2:hover {
     background-color: red;
 }
 
-.fundo{
+.fundo {
     background: url("../img/fundoYellow.png")
 }
 
@@ -59,7 +65,7 @@
     position: absolute;
     z-index: -1;
     width: 85%;
-    margin-left: 5%; 
+    margin-left: 5%;
 }
 
 .tb_pertencer {
@@ -69,7 +75,7 @@
     width: 84%;
 }
 
-.text_mancha{
+.text_mancha {
     color: white;
     font-size: 16px;
     font-family: Arial;
@@ -78,13 +84,21 @@
 .text_mancha_div {
     padding: 26%;
     padding-top: 1%;
-    padding-bottom: 0%; 
+    padding-bottom: 0%;
 }
 
 .img_mancha_mae {
     float: right;
-    
 }
+
 ul {
     text-indent: -5px;
+}
+
+.rodape {
+    background: url("../img/rodape.png");
+    margin: 0;
+    padding: 0;
+    width: 90vw;
+    height: 22.5vh;
 }
