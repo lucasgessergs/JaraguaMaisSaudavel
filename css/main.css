@@ -11,9 +11,9 @@
     background-size: contain; 
 }
 .logo {
-    margin-top: 16px;
     float: left;
-    margin-left: 20%;
+    width: 80%;
+    height: 80%;
 }
 .b_nav{
     float: left;
@@ -24,7 +24,6 @@
     border-style: solid;
     padding: 2px;
     width: 100px;
-    margin-left: 5%;
     color: rgb(255, 196, 0);
 }
 .b_nav:hover {
