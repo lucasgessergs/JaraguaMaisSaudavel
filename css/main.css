@@ -50,3 +50,42 @@
 .fundo{
     background: url("../img/fundoYellow.png")
 }
+
+.pertencer {
+    float: left;
+    margin-left: 5%;
+}
+
+.f_azul {
+    position: absolute;
+    z-index: -1;
+    width: 85%;
+    margin-left: 5%; 
+}
+
+.tb_pertencer {
+    padding: 25%;
+    padding-top: 4%;
+    padding-bottom: 0%;
+    width: 84%;
+}
+
+.text_mancha{
+    color: white;
+    font-size: 16px;
+    font-family: Arial;
+}
+
+.text_mancha_div {
+    padding: 26%;
+    padding-top: 1%;
+    padding-bottom: 0%; 
+}
+
+.img_mancha_mae {
+    float: right;
+    
+}
+ul {
+    text-indent: -5px;
+}
