@@ -56,18 +56,38 @@
     margin-left: 5%;
 }
 
-.f_azul {
+.f_azul_pertencer {
     position: absolute;
     z-index: -1;
     width: 85%;
-    margin-left: 5%; 
-}
+    }
+
+.f_azul_conheca {
+       position: absolute;
+       z-index: -1;
+       width: 85%;
+       
+    }
 
 .tb_pertencer {
     padding: 25%;
     padding-top: 4%;
     padding-bottom: 0%;
     width: 84%;
+
+}
+
+.tb_conheca {
+    padding: 25%;
+    padding-top: 8%;
+    padding-bottom: 0%;
+    width: 84%;
+}
+
+.base-balao {
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 5%;
 }
 
 .text_mancha{
@@ -84,6 +104,9 @@
 
 .img_mancha_mae {
     float: right;
+    width: 30%;
+    margin-right: 10%;
+    margin-top: -5%;
     
 }
 ul {
