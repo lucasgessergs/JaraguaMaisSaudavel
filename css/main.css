@@ -4,15 +4,41 @@
 }
 
 .pertencer {
+
+.fundo {
+    background: url("../img/fundoYellow.png")
+}
+
+.navBar {
+    width: 100%;
+    height: 160px;
+    background-image: url('../img/CabecalhoAzul.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.logo {
+    margin-top: 16px;
     float: left;
     margin-left: 5%;
+    margin-left: 10%;
 }
 
 .f_azul {
     position: absolute;
     z-index: -1;
     width: 85%;
+
+.b_nav {
+    font-weight: 600;
+    float: left;
+    margin-top: 32px;
+    border-radius: 25px;
+    background-color: transparent;
+    padding: 2px;
+    width: 100px;
     margin-left: 5%;
+    color: white;
 }
 
 .tb_pertencer {
@@ -20,9 +46,25 @@
     padding-top: 4%;
     padding-bottom: 0%;
     width: 84%;
+
+.b_nav:hover {
+    background-color: transparent;
+    color: rgb(255, 190, 0);
+    border: 2px rgb(255, 190, 0);
+    border-style: solid;
 }
 
 .text_mancha {
+
+.b_nav2 {
+    font-weight: 600;
+    float: left;
+    margin-top: 32px;
+    border-radius: 25px;
+    background-color: transparent;
+    padding: 2px;
+    width: 100px;
+    margin-left: 1%;
     color: white;
     font-size: 16px;
     font-family: Arial;
@@ -32,6 +74,9 @@
     padding: 26%;
     padding-top: 1%;
     padding-bottom: 0%;
+
+.b_nav2:hover {
+    background-color: rgb(255, 220, 0);
 }
 
 .img_mancha_mae {
