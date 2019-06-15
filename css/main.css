@@ -2,6 +2,61 @@
     background: url("../img/fundoYellow.png");
     background-color: red;
 }
+/* Logotipo */
+.logo {
+    margin-top: 16px;
+    float: left;
+    margin-left: 10%;
+}
+
+
+/* Fim Logotipo */
+/* Barra de navegação */
+.navBar {
+    width: 100%;
+    height: 160px;
+    background-image: url('../img/CabecalhoAzul.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.b_nav{
+    font-weight: 600;
+    float: left;
+    margin-top: 32px;
+    border-radius: 25px;
+    background-color: transparent;
+    padding: 2px;
+    width: 100px;
+    margin-left: 5%;
+    color: white;
+    border: none;
+}
+.b_nav:hover {
+    background-color: transparent;
+    color: rgb(255, 190, 0);
+    border: 2px rgb(255, 190, 0);
+    border-style: solid;
+}
+.b_nav2 {
+    font-weight: 600;
+    float: left;
+    margin-top: 32px;
+    border-radius: 25px;
+    background-color: transparent;
+    padding: 2px;
+    width: 100px;
+    margin-left: 1%;
+    color: white;
+    border: none;
+}
+.b_nav2:hover {
+    background-color: rgb(255, 220, 0);
+}
+
+/* Fim barra de navegação */
+
+
 
 .pertencer {
     float: left;
@@ -36,6 +91,12 @@
 
 .img_mancha_mae {
     float: right;
+    width: 35%;
+    margin-top: -17%;
+    margin-right: 5%;
+}
+.larguraazul1{
+    width: 80%;
 }
 
 ul {
