@@ -8,8 +8,6 @@
     float: left;
     margin-left: 10%;
 }
-
-
 /* Fim Logotipo */
 /* Barra de navegação */
 .navBar {
@@ -56,7 +54,13 @@
 
 /* Fim barra de navegação */
 
+/* Primeiro video */
+.video-center{
+    left: 50%;
+    margin-left: -25%;
+}
 
+/* Fim Primeiro Video */
 
 .pertencer {
     float: left;
